@@ -1,6 +1,6 @@
 # flutter_app1
 
-A new Flutter project.
+Penugasan ini digunakan untuk memenuhi Tugas Besar Mata Kuliah Pengembangan Aplikasi Bergerak - Prodi Informatika UNS (2022).
 
 ## Getting Started
 
